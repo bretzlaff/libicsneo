@@ -9,3 +9,9 @@ third-party/concurrentqueue/benchmarks
 third-party/concurrentqueue/tests
 *.bak
 .vs
+examples/csharp/obj/Debug/netcoreapp2.2/.NETCoreApp,Version=v2.2.AssemblyAttributes.cs
+examples/csharp/obj/Debug/netcoreapp2.2/libicsneocsharp-example.AssemblyInfo.cs
+examples/csharp/obj/Debug/netcoreapp2.2/libicsneocsharp-example.AssemblyInfoInputs.cache
+examples/csharp/obj/Release/netcoreapp2.2/.NETCoreApp,Version=v2.2.AssemblyAttributes.cs
+examples/csharp/obj/Release/netcoreapp2.2/libicsneocsharp-example.AssemblyInfo.cs
+examples/csharp/obj/Release/netcoreapp2.2/libicsneocsharp-example.AssemblyInfoInputs.cache
